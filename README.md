@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DominTR
 - 👀 I’m interested in sports apps.
-- 🌱 I’m currently learning Python 3.11.3.
+- 🌱 I’m currently learning HTML, CSS, JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
